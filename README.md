@@ -11,9 +11,9 @@ Ce dépôt contient les **newsletters** publiées chaque dimanche (au format pdf
 
 ## 🗂️ Structure/Organisation
 
-Les newsletters sont organisées **par semaine** dans le dossier [`newsletters/`](https://spacecal-fr.github.io/Newsletters-SpaceCal-Fr/docs/)
+Les newsletters sont organisées **par semaine** dans le dossier [`newsletters/`](https://github.com/SpaceCal-Fr/Newsletters-SpaceCal-Fr/tree/43531e397c82b4d8ee8a91ed127f10ee63333e9a/newsletters)
 
-[test](https://github.com/SpaceCal-Fr/Newsletters-SpaceCal-Fr/tree/43531e397c82b4d8ee8a91ed127f10ee63333e9a/docs)
+[test](https://github.com/SpaceCal-Fr/Newsletters-SpaceCal-Fr/tree/43531e397c82b4d8ee8a91ed127f10ee63333e9a/newsletters)
 
 Chaque dossier contient :
 - `newsletter.pdf` : version PDF prête à partager.
